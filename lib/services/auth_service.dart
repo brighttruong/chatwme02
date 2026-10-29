@@ -29,10 +29,10 @@ class AuthService {
       }
 
       // 2. Kiểm tra trong Firebase Auth
-      final methods = await _auth.fetchSignInMethodsForEmail(cleanEmail);
-      if (methods.isNotEmpty) {
-        return true;
-      }
+      // final methods = await _auth.fetchSignInMethodsForEmail(cleanEmail);
+      // if (methods.isNotEmpty) {
+      //   return true;
+      // }
     } catch (e) {
       debugPrint('>>> [checkAccountExists] Lỗi khi kiểm tra tài khoản: $e');
     }
