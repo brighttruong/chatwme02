@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700691727963",
+    "project_id": "chatwme-8368f",
+    "storage_bucket": "chatwme-8368f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700691727963:android:273b76b6387bd8343d217e",
+        "android_client_info": {
+          "package_name": "com.example.chatwme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0pLoLkSDpoWDIRbELCm3TvKTtID1KCg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
